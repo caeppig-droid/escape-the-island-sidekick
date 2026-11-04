@@ -128,3 +128,5 @@ Any static host works the same way (Netlify, Cloudflare Pages, Vercel). The game
 ## Credits
 
 Built with plain HTML, CSS, and JavaScript, plus [PeerJS](https://peerjs.com/) (MIT licensed) for peer-to-peer connections. Fonts: Fredoka and Nunito from Google Fonts.
+
+
